@@ -1,6 +1,6 @@
                                                        SQL BUSINESS FINANCE DATA ANALYSIS
 
-
+Before entering the code change the month sequence in a correct form eg(1 to 12)
 PROJECT OVERVIEW:
 This project aims to analyze business finance data to uncover insights into revenue trends, expense patterns, and financial performance over time. The dataset contains information such as year, month sequence, month name, date, business line, amount, expense sub-group, revenue expense group, and revenue or expense classification.
 
